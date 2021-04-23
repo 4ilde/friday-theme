@@ -4,8 +4,8 @@
 - title: About
   href: about.html
 
-- title: Posts
-  href: list/posts.html
+# - title: Posts
+#   href: list/posts.html
 
 - title: Documentation
   href: list/projects.html
