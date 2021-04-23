@@ -1,13 +1,23 @@
 - title: Home
   href: index.html
 
-- title: About
-  href: about.html
+
+- title: dataset description
+  href: description.html
+
+- title: download
+  href: description.html
+
+- title: contact
+  href: description.html
+
+# - title: About
+#   href: about.html
 
 # - title: Posts
 #   href: list/posts.html
 
-- title: Documentation
-  href: list/projects.html
+# - title: Documentation
+#   href: list/projects.html
 
 
